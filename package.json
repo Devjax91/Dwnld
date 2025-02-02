@@ -1,0 +1,14 @@
+{
+  "name": "vox-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "instagram-private-api": "^1.45.3",
+    "dotenv": "^16.3.1",
+    "bottleneck": "^2.19.5"
+  }
+}
